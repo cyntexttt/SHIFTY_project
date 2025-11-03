@@ -1,0 +1,9 @@
+Resolve cross-origin issues by introducing a backend proxy server
+
+Implement a Flask backend proxy to handle requests to the Google Apps Script API, resolving CORS issues and updating the frontend to communicate with the proxy.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 2e4f6cc8-af32-426b-a687-8572070f377d
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: fb6f210b-aa6e-418b-aebd-1f7833f026d7
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/830ccdb8-424d-4690-9b6a-68a89490c508/2e4f6cc8-af32-426b-a687-8572070f377d/ceB4ItJ
